@@ -37,7 +37,7 @@ header {
 }
 
 .left-nav a:hover {
-  color: #f4c300;
+  color: #f46e00;
 }
 
 /* Logo centré */
@@ -66,7 +66,7 @@ header {
 }
 
 .right-nav a:hover {
-  color: #f4c300;
+  color: #f46e00;
 }
 
 .hero {
@@ -152,7 +152,7 @@ h2, h3 {
 .feature i {
   font-size: 2rem;
   margin-bottom: 10px;
-  color: #f4c300;
+  color: #f45900;
 }
 
 /* Avis clients */
@@ -178,7 +178,7 @@ h2, h3 {
 
 .testimonial h4 {
   text-align: right;
-  color: #f4c300;
+  color: #f46e00;
 }
 
 /* bouton actions */
@@ -198,7 +198,7 @@ h2, h3 {
 }
 
 .btn-primary {
-  background: #f4c300;
+  background: #f46200;
   color: #000;
 }
 
@@ -207,12 +207,12 @@ h2, h3 {
 }
 
 .btn-secondary {
-  border: 2px solid #f4c300;
-  color: #f4c300;
+  border: 2px solid #f46200;
+  color: #f46e00;
 }
 
 .btn-secondary:hover {
-  background: #f4c300;
+  background: #f46e00;
   color: #000;
 }
 
@@ -226,7 +226,7 @@ footer {
 }
 
 footer a {
-  color: #f4c300;
+  color: #f44d00;
   text-decoration: none;
 }
 
